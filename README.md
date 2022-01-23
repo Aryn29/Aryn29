@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryn29
-- 👀 I’m interested in- Motorsports, Vehicle Dynamics, Aerodynamics
+- 👀 I’m interested in- Motorsports, Automotive R&D, Vehicle Dynamics, Aerodynamics
 - 🌱 I’m currently learning- Data Science, Matlab, Simulink, Python 
 - 💞️ I’m looking to collaborate on- Anything related to Vehicle Dynamics, Data Processing or a Simulation Project
 - 📫 How to reach me- 
